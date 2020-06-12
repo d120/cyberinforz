@@ -2,4 +2,4 @@
 
 > Wer nicht weiß, wie es geht, sollte wissen, wo es steht.
 >
-> &mdash; *(Arne Pottharst, ehemaliger Fachschaftler)*
+> &mdash; *Arne Pottharst, ehemaliger Fachschaftler*

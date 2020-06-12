@@ -1,4 +1,7 @@
-# Summary
+# Inhaltsverzeichnis
+
+[OInforz WiSe 2020](./index.md)  
+[Inhaltsverzeichnis](./SUMMARY.md)
 
 - [Willkommen](./willkommen/index.md)
   - [Vorwort des Dekans](./willkommen/vorwort.md)
