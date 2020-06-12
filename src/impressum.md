@@ -6,7 +6,7 @@ Die Redaktion tagt derzeit unregelmäßig. Die Termine werden über die offene M
 
 Namentlich gekennzeichnete und anonyme Beiträge geben nicht notwendigerweise die Meinung der Redaktion wieder. Alle Rechte, insbesondere das der Verfilmung, vorbehalten.
 
-![Inforz-Wesen](../_res/img/wesen/inforz.png)
+![Inforz-Wesen](_res/img/wesen/inforz.png)
 
 **Redaktionsanschrift:** Inforz, Fachschaft Informatik, Hochschulstraße 10, 64289 Darmstadt  
 **Webseite:** <https://www.D120.de/inforz/>  
