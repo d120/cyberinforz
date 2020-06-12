@@ -1,0 +1,27 @@
+dt {
+  font-weight: bold;
+}
+
+img:not(.full-size) {
+  margin: 0 auto;
+  max-height: 40rem;
+  display: block;
+}
+
+img[src*="lul_"] {
+  max-height: 20rem;
+}
+
+@media(min-width: 40rem) {
+  img[src*="lul_"] {
+    float: left;
+    margin: 0 5rem 1rem 0;
+    max-width: 25rem;
+  }
+}
+
+.label {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
