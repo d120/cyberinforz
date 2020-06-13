@@ -4,7 +4,7 @@
   background-color: var(--sidebar-active);
   margin: 0;
   box-sizing: border-box;
-  background-image: url(_res/img/d120_logo/logo_schutzzone_inverted.png);
+  background-image: url(../_res/img/d120_logo/logo_schutzzone_inverted.png);
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;

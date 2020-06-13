@@ -5,7 +5,7 @@ multilingual = false
 src = "src"
 
 [output.html]
-additional-css = ["inforz.css"]
+additional-css = ["css/inforz.css"]
 
 [output.html.fold]
 enable = true

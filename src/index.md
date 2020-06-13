@@ -1,6 +1,6 @@
 # Inforz zur Winterophase 2020
 
-Hey! Da wir euch in diesem jahr leider kein gedrucktes Exemplar unserer
+Hey! Da wir euch in diesem Jahr leider kein gedrucktes Exemplar unserer
 Informatik-Fachschafts-Zeitschrift *Inforz* in eure Erstsemester-Tüten packen
 können, gibt es hier erstmals das Inforz als Webseite.
 
