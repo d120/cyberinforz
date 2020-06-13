@@ -37,6 +37,6 @@
   - [Häufige Abkürzungen](./nachschlagen/abkuerzungen.md)
   - [Wichtige Adresssen](./nachschlagen/adressen.md)
 
-[Anhang A: Gültigkeitsbereich des Semestertickets](./uni/semesterticket.md)
-[Anhang B: Lageplan der Universität](./uni/lageplan.md)
+[Anhang A: Gültigkeitsbereich des Semestertickets](./uni/semesterticket.md)  
+[Anhang B: Lageplan der Universität](./uni/lageplan.md)  
 [Impressum](./impressum.md)
