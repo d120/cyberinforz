@@ -1,8 +1,8 @@
 # Willkommen zur Ophase
 
-*Wenn du es auf diese Seite geschafft hast und diesen Artikel liest<!--hier wurde mal ein bisschen gecybert-->, dann stehen die Chancen gut, dass deine Orientierungsphase gerade begonnen hat oder du bereits mitten drin bist.*
+*Wenn du es auf diese Seite geschafft hast und diesen Artikel liest, dann stehen die Chancen gut, dass deine Orientierungsphase gerade begonnen hat oder du bereits mitten drin bist.*
 
-Die Ophase am Fachbereich Informatik ist eine Veranstaltung mit langer Geschichte: In etwa seit es den Fachbereich Informatik gibt, gibt es auch eine Orientierungsphase für Erstsemester. Der Sinn dieser Veranstaltung ist es, dir die Universität, und den Fachbereich Informatik insbesondere, näher zu bringen, dich mit deinen Kommiliton*innen<!-- Einheitliches gendern im Gesamten Artiekl-->, also denjenigen Leuten, mit denen zusammen du dein Studium bestreiten wirst, bekannt zu machen und dir einen guten Start ins Studium zu ermöglichen.
+Die Ophase am Fachbereich Informatik ist eine Veranstaltung mit langer Geschichte: In etwa seit es den Fachbereich Informatik gibt, gibt es auch eine Orientierungsphase für Erstsemester. Der Sinn dieser Veranstaltung ist es, dir die Universität, und den Fachbereich Informatik insbesondere, näher zu bringen, dich mit deinen Kommiliton\*innen, also denjenigen Leuten, mit denen zusammen du dein Studium bestreiten wirst, bekannt zu machen und dir einen guten Start ins Studium zu ermöglichen.
 
 All das, was dir diese Woche geboten wird, ist von Studierenden organisiert und durchgeführt, um Studienanfänger*innen<!-- Einheitliches gendern im Gesamten Artiekl--> wie dir einen optimalen Start ins Studium zu ermöglichen. Die Tutorinnen und Tutoren, die dich diese Woche betreuen, sind Studierende, die, genau wie du jetzt, auch einmal eine Ophase mitgemacht haben und sich ein paar Semester später dazu entschlossen haben, das, was sie damals gelernt haben, an neue Studierende wie dich weiterzugeben.
 
@@ -17,6 +17,6 @@ Wir wünschen dir noch viel Spaß mit diesem Tab und eine gelungene Ophase!
 <br>
 <br>
 
-![xkcd.org](../_res/img/comics/comic_self_description.png) <!--Diesmal wirklich der richtige Path :D-->
+<!-- ![xkcd.org](../_res/img/comics/comic_self_description.png)-->
 
 <center><strong>xkcd.org</strong></center>
