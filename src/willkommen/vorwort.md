@@ -1,5 +1,5 @@
 # Vorwort des Dekans
-<!-- altes Vorword -->
+<!-- altes Vorwort -->
 <!-- TODO: eventuell Dekanat anschreiben, ob das noch aktuell ist, oder ob sie es überarbeiten wollen. Wenn es noch aktuell ist, Namen korrigieren :)  -->
 *Liebe Studierende,*
 
