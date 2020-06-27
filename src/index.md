@@ -8,6 +8,6 @@ Wir hoffen, dass euch diese Handreichung zum Studienanfang den Einstieg ins
 Studium ein bisschen erleichtert. Wenn ihr Informationen zur OPhase an sich
 haben wollt, besucht doch einmal <https://cyberphase.d120.de>.
 
-*Die O-Inforz-Orga*
+*Die OInforz-Orga*
 
 ![Cyberphase](_res/img/ophase_logo_reduced.png)
