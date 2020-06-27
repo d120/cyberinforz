@@ -16,6 +16,6 @@ Wir wünschen dir noch viel Spaß mit diesem Heft und eine gelungene Ophase!
 <br>
 <br>
 
-![xkcd.org](../_res/img/comic_self_description.png)
+![xkcd.org](../_res/comics/img/comic_self_description.png)
 
 <center><strong>xkcd.org</strong></center>
