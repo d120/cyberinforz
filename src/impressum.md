@@ -6,6 +6,9 @@ Die Redaktion tagt derzeit unregelmäßig. Die Termine werden über die offene M
 
 Namentlich gekennzeichnete und anonyme Beiträge geben nicht notwendigerweise die Meinung der Redaktion wieder. Alle Rechte, insbesondere das der Verfilmung, vorbehalten.
 
+**Warum gendern wir?**
+<https://genderdings.de/gender/gendern/>
+
 ![Inforz-Wesen](_res/img/wesen/inforz.png)
 
 **Redaktionsanschrift:** Inforz, Fachschaft Informatik, Hochschulstraße 10, 64289 Darmstadt  
