@@ -10,7 +10,7 @@ Wir wünschen dir, dass du auch während deines Studiums jede Menge Freund*innen
 
 Die Fachschaft Informatik
 
-![Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2017][fs]
-<center><strong>Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2017</strong></center>
+![Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2020][fs]
+<center><strong>Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2020</strong></center>
 
-[fs]: ../_res/img/fsbild.jpg "Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2017"
+[fs]: ../_res/img/fsbild.jpg "Einige der Mitglieder der aktiven Fachschaft im Sommersemester 2020"
