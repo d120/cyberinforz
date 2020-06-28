@@ -6,6 +6,7 @@ src = "src"
 
 [output.html]
 additional-css = ["css/inforz.css"]
+git-repository-url = "https://github.com/d120/cyberinforz"
 
 [output.html.fold]
 enable = true
