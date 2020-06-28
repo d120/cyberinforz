@@ -1,5 +1,6 @@
 # Vorwort des Dekans
-
+<!-- altes Vorwort -->
+<!-- TODO: eventuell Dekanat anschreiben, ob das noch aktuell ist, oder ob sie es überarbeiten wollen. Wenn es noch aktuell ist, Namen korrigieren :)  -->
 *Liebe Studierende,*
 
 Herzlich willkommen am Fachbereich Informatik der TU Darmstadt! Sie haben eine sehr gute Wahl getroffen. Der Fachbereich Informatik ist einer der drei ältesten Informatik-Fachbereiche in Deutschland, gleichzeitig aber auch einer der modernsten. So haben wir als erster Fachbereich auf Bachelor- und Master-Studiengänge umgestellt und bieten Ihnen heute eine große Auswahl an spezialisierten Master-Studiengängen und Vertiefungsfächern an, die in dieser Form in Deutschland einzigartig ist. Doch Vielfalt ist nichts ohne Qualität. Diese wird durch die seit Jahren sehr hohe Einschätzung von Personalchefs zu den besten Informatik-Studiengängen in Deutschland belegt.

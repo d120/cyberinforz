@@ -6,17 +6,20 @@ Die Redaktion tagt derzeit unregelmäßig. Die Termine werden über die offene M
 
 Namentlich gekennzeichnete und anonyme Beiträge geben nicht notwendigerweise die Meinung der Redaktion wieder. Alle Rechte, insbesondere das der Verfilmung, vorbehalten.
 
+**Warum gendern wir?**
+<https://genderdings.de/gender/gendern/>
+
 ![Inforz-Wesen](_res/img/wesen/inforz.png)
 
 **Redaktionsanschrift:** Inforz, Fachschaft Informatik, Hochschulstraße 10, 64289 Darmstadt  
-**Webseite:** <https://www.D120.de/inforz/>  
+**Webseite:** <https://www.D120.de/inforz/> und <https://www.d120.de/oinforz/>
 **E-Mail:** <inforz@D120.de>
 
-<!-- **Redaktionsschluss dieser Ausgabe:** 01. April 2019  
-**Drucklegung dieser Ausgabe:** 25. April 2019  
+<!-- **Redaktionsschluss dieser Ausgabe:** XX.XX.XXXX
+**Drucklegung dieser Ausgabe:** XX.XX.XXXX
 **V.i.S.d.P.:** Fabian Damken, Fachschaft Informatik, Hochschulstraße 10, 64289 Darmstadt -->
 
-**Redaktion:** Stefan Gries, Jannis Blüml, Nadja Geisler, Julian Haas, Tobias Otterbein, Stefan Pilot, Dorothea Treitz, Fabian Damken, Jennifer Nicola
+**Redaktion:** Stefan Gries, Jannis Blüml, Nadja Geisler, Julian Haas, Tobias Otterbein, Stefan Pilot, Dorothea Treitz, Fabian Damken, Jennifer Nicola, Tobias Kratz
 
 <!-- **Satz:** Dorothea Treitz mit \LaTeX, unter Verwendung einer Vorlage von Tobias Otterbein  -->
 **Satz**: Daniel Seiler mit *mdBook*  
