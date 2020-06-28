@@ -18,6 +18,6 @@ Wir wünschen dir noch viel Spaß mit diesem Tab und eine gelungene Ophase!
 <br>
 <br>
 
-<!-- ![xkcd.org](../_res/img/comics/comic_self_description.png)-->
+![xkcd.org](../_res/img/comics/self_description.png)
 
 <center><strong>xkcd.org</strong></center>
