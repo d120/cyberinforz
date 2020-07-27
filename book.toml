@@ -3,6 +3,7 @@ authors = []
 language = "de"
 multilingual = false
 src = "src"
+title = "Inforz zur Winterophase 2020"
 
 [output.html]
 additional-css = ["css/inforz.css"]
